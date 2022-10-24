@@ -6,6 +6,8 @@ This repo contains a TabNet solution to prediction of [Airbnb NYC listing prices
 - replace data preparation for Keras with TabNet data preparation
 - replace Keras model training in model training notebook with TabNet model training
 
+The code in this repo is based on the example here: [https://www.geeksforgeeks.org/tabnet/](https://www.geeksforgeeks.org/tabnet/).
+
 
 
 
